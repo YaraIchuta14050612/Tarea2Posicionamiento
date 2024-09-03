@@ -1,0 +1,112 @@
+.sombrero{
+    background-color: mediumorchid;
+    width: 290px;
+    height: 190px;
+    position: relative;
+    top: 10px;
+    left: 230px;
+}
+
+.sombrero2{
+    background-color: mediumorchid;
+    border-radius: 50%;
+    width: 690px;
+    height: 140px;
+    position: fixed;
+    top: 100px;
+    left: 20px;
+}
+
+.cara{
+    background-color: chocolate;
+    border-radius: 50%;
+    width: 490px;
+    height: 490px;
+    position: absolute;
+    top: 150px;
+    left: 120px;
+}
+
+.ojo1{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: fixed;
+    top: 250px;
+    left: 200px;
+}
+
+.ojo2{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: fixed;
+    top: 250px;
+    left: 400px;
+}
+
+.puntito{
+    background-color: black;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 60px;
+    left: 40px;
+}
+
+.boca{
+    background-color: aliceblue;
+    border-radius: 50%;
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    top: 260px;
+    left: 80px;
+}
+
+.puntoboca{
+    background-color: black;
+    border-radius: 50%;
+    width: 150px;
+    height: 80px;
+    position: absolute;
+    top: 60px;
+    left: 100px;
+}
+
+.corbata1{
+    background-color: darkcyan;
+    border-radius: 50%;
+    width: 150px;
+    height: 80px;
+    position: fixed;
+    top: 600px;
+    left: 300px;
+}
+
+.corbata2{
+    background-color: rgb(3, 117, 117);
+    border-radius: 50%;
+    width: 300px;
+    height: 100px;
+    position: fixed;
+    top: 590px;
+    left: 60px;
+}
+
+.corbata3{
+    background-color: rgb(3, 117, 117);
+    border-radius: 50%;
+    width: 300px;
+    height: 100px;
+    position: fixed;
+    top: 590px;
+    left: 400px;
+}
+
+h1{
+    padding: 10px;
+}
